@@ -1,0 +1,8 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+@openzeppelin/=lib/openzeppelin-contracts/
+@uniswap/v3-periphery=lib/v3-periphery/
+@uniswap/v3-core/=lib/v3-core/
+@gnosis.pm/safe-contracts=node_modules/@gnosis.pm/safe-contracts/
+@uniswapV2/=lib/v2-periphery/
+@uniswap/v2-core/=node_modules/@uniswap/v2-core/
